@@ -5,8 +5,7 @@
 This repository will contain the official implementation of our paper:
 
 > **Title:** DKGTrack: Decoupled Knowledge Guided Tracking for Referring Multi-Object Tracking  
-> **Authors:** [Your Name(s)]  
-> **Conference/Journal (2025)**
+> **ICCV (2025)**
 
 ## 🔧 Features
 
