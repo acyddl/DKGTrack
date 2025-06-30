@@ -11,7 +11,6 @@ This repository will contain the official implementation of our paper:
 
 - **Static Semantic Enhancement (SSE):** Improves region-level vision-language alignment for more discriminative object representations.
 - **Motion Perception Alignment (MPA):** Aligns motion expressions with object queries for temporally consistent tracking.
-- **Unified RMOT Framework:** End-to-end language-driven multi-object tracking.
 
 ## 📅 Code Release
 
