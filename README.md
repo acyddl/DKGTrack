@@ -55,6 +55,9 @@ sh evaluate_rmot.sh
 
 This project will be released under the **MIT License**.
 
+## Acknowledgement
+We sincerely thank projects [RMOT](https://github.com/wudongming97/RMOT), [TempRMOT](https://github.com/zyn213/TempRMOT), [DsHmp](https://github.com/heshuting555/DsHmp)
+
 ## 📫 Contact
 
 If you have any questions, feel free to open an issue or contact us.
