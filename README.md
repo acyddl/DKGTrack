@@ -15,7 +15,7 @@ conda create -n DKGTrack python=3.8 -y
 
 conda activate DKGTrack
 
-For detailed installation instructions and dependencies, please refer to install.md
+For detailed installation instructions and dependencies, please refer to [install.md](https://github.com/acyddl/DKGTrack/blob/main/Install.md)
 
 ## 📅 Dataset
 For instructions on downloading and organizing the dataset, please refer to the [TempRMOT repository](https://github.com/zyn213/TempRMOT).
