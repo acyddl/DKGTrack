@@ -20,7 +20,13 @@ For detailed installation instructions and dependencies, please refer to [instal
 ## 📅 Dataset
 For instructions on downloading and organizing the dataset, please refer to the [TempRMOT repository](https://github.com/zyn213/TempRMOT).
 
+### Training
+Before training, you can download COCO pretrained weights from [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR) with **iterative bounding box refinement**.
 
+Then, train **DKGTrack** on Refer-KITTI using the following command:
+```bash
+sh configs/dkgtrack_rmot_train_rk.sh
+```
 
 ## 📜 License
 
