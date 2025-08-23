@@ -22,12 +22,12 @@
 
 python3 run_mot_challenge.py \
 --METRICS HOTA \
---SEQMAP_FILE /data2/lgy/RMOT/work3/TRMOT3_4/datasets/data_path/refer-kitti-v2/seqmap.txt \
+--SEQMAP_FILE /data2/lgy/RMOT/work3/DKGTrack/datasets/data_path/refer-kitti-v2/seqmap.txt \
 --SKIP_SPLIT_FOL True \
 --GT_FOLDER /data2/lgy/Dataset/RMOT/REFER-KITTI/Dataset/refer-kitti-v2/KITTI/training/image_02 \
---TRACKERS_FOLDER /data2/lgy/RMOT/work3/TRMOT3_4/exps/saved_models_rk/motion_1_v2/results_epoch99 \
+--TRACKERS_FOLDER /data2/lgy/RMOT/work3/DKGTrack/exps/saved_models_rk/motion_1_v2/results_epoch99 \
 --GT_LOC_FORMAT {gt_folder}{video_id}/{expression_id}/gt.txt \
---TRACKERS_TO_EVAL /data2/lgy/RMOT/work3/TRMOT3_4/exps/saved_models_rk/motion_1_v2/results_epoch99 \
+--TRACKERS_TO_EVAL /data2/lgy/RMOT/work3/DKGTrack/exps/saved_models_rk/motion_1_v2/results_epoch99 \
 --USE_PARALLEL True \
 --NUM_PARALLEL_CORES 2 \
 --SKIP_SPLIT_FOL True \
