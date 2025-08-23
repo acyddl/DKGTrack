@@ -17,10 +17,10 @@ conda activate DKGTrack
 
 For detailed installation instructions and dependencies, please refer to install.md
 
-## 📅 Code Release
+## 📅 Dataset
+Please refer to the [TempRMOT]([datasets/README.md](https://github.com/zyn213/TempRMOT) for downloading and organization.
 
-The code and pre-trained models will be released **soon**.  
-Stay tuned and ⭐ star this repo to get notified!
+
 
 ## 📜 License
 
