@@ -27,9 +27,23 @@ Then, train **DKGTrack** on Refer-KITTI using the following command:
 ```bash
 sh configs/dkgtrack_rmot_train_rk.sh
 ```
-train **DKGTrack** on Refer-KITTI_v2 using the following command:
+Train **DKGTrack** on Refer-KITTI_v2 using the following command:
 ```bash
 sh configs/dkgtrack_rmot_train.sh
+```
+### Inference
+For evaluating DKGTrack on Refer-KITTI, run:
+```bash
+sh configs/temp_rmot_test_rk.sh
+```
+For evaluating DKGTrack on Refer-KITTI_v2, run:
+```bash
+sh configs/temp_rmot_test.sh
+```
+After testing, you can obtain the main results by running the evaluation scripts:
+```bash
+cd TrackEval/script
+sh evaluate_rmot.sh
 ```
 
 ## 📜 License
