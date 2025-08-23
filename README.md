@@ -1,6 +1,6 @@
 ## 🚀 DKGTrack: Language Decoupling with Fine-grained Knowledge Guidance for Referring Multi-object Tracking
 
-**DKGTrack** is a novel Referring Multi-Object Tracking (RMOT) framework that decouples language expressions into localized descriptions and motion states, enabling more precise object tracking guided by natural language.
+**DKGTrack** is a novel Referring Multi-Object Tracking (RMOT) method that decouples language expressions into localized descriptions and motion states, enabling more precise object tracking guided by natural language.
 <p align="center"><img src="./assets/framework.png" width="800"/></p>
 
 ## 🔧 Features
