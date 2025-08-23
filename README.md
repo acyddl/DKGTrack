@@ -45,7 +45,12 @@ After testing, you can obtain the main results by running the evaluation scripts
 cd TrackEval/script
 sh evaluate_rmot.sh
 ```
+### Main Results
 
+| **Method** | **Dataset** | **HOTA** | **DetA** | **AssA** | **DetRe** | **DetPr** | **AssRe** | **AssRe** | **LocA** |                                           **URL**                                           |
+|:----------:|:-----------:|:--------:|:--------:|:--------:|:---------:|:---------:|:---------:|-----------|----------| :-----------------------------------------------------------------------------------------: |
+| DKGTrack  | Refer-KITTI |  52.23   |  41.10   |  66.51   |   54.64   |   61.64  |   70.73   | 89.17     | 90.60   | [model](https://pan.baidu.com/s/1kKCDaUVa5BmsWWxpaR0j8w)(afd5) |
+    
 ## 📜 License
 
 This project will be released under the **MIT License**.
