@@ -10,9 +10,12 @@
 
 ## 🛠️ Setup
 git clone https://github.com/acyddl/DKGTrack.git
+
 conda create -n DKGTrack python=3.8 -y
+
 conda activate DKGTrack
-# For detailed installation instructions and dependencies, please refer to install.md
+
+For detailed installation instructions and dependencies, please refer to install.md
 
 ## 📅 Code Release
 
