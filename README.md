@@ -18,7 +18,7 @@ conda activate DKGTrack
 For detailed installation instructions and dependencies, please refer to install.md
 
 ## 📅 Dataset
-Please refer to the [TempRMOT](https://github.com/zyn213/TempRMOT) for downloading and organization.
+For instructions on downloading and organizing the dataset, please refer to the [TempRMOT repository](https://github.com/zyn213/TempRMOT).
 
 
 
