@@ -8,6 +8,12 @@
 - **Static Semantic Enhancement (SSE):** Improves region-level vision-language alignment for more discriminative object representations.
 - **Motion Perception Alignment (MPA):** Aligns motion expressions with object queries for temporally consistent tracking.
 
+## 🛠️ Setup
+git clone https://github.com/acyddl/DKGTrack.git
+conda create -n DKGTrack python=3.8 -y
+conda activate DKGTrack
+# For detailed installation instructions and dependencies, please refer to install.md
+
 ## 📅 Code Release
 
 The code and pre-trained models will be released **soon**.  
