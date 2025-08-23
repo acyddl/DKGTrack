@@ -52,11 +52,10 @@ sh evaluate_rmot.sh
 | DKGTrack  | Refer-KITTI |  52.23   |  41.10   |  66.51   |   54.64   |   61.64  |   70.73   | 89.17     | 90.60   | [model](https://pan.baidu.com/s/1kKCDaUVa5BmsWWxpaR0j8w) (afd5) |
     
 ## 📜 License
-
-This project will be released under the **MIT License**.
+![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg) **Usage and License Notices**: The code are intended and licensed for research use only.
 
 ## Acknowledgement
-We sincerely thank projects [RMOT](https://github.com/wudongming97/RMOT), [TempRMOT](https://github.com/zyn213/TempRMOT), [DsHmp](https://github.com/heshuting555/DsHmp)
+We sincerely thank projects [RMOT](https://github.com/wudongming97/RMOT), [TempRMOT](https://github.com/zyn213/TempRMOT), [DsHmp](https://github.com/heshuting555/DsHmp) for providing their open-source resources.
 
 ## 📫 Contact
 
