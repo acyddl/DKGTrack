@@ -458,7 +458,6 @@ class DeformableTransformerDecoder(nn.Module):
         sentence_embeds = repeat(sentence_embeds, 'b c -> b n c', n=n).transpose(1,0) # rmot_4b
         tgt_static = self.cross_static(tgt.transpose(1,0), sentence_embeds).transpose(1,0)
         
-        # output = tgt +  0.1 * tgt_static# rmot_3 50.3
         output = tgt + 0.5 * tgt_static# rmot_3
         # output = tgt
 
