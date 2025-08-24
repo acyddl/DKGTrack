@@ -54,7 +54,7 @@ sh evaluate_rmot.sh
 ![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg) **Usage and License Notices**: The code are intended and licensed for research use only.
 
 ## Acknowledgement
-We sincerely thank projects [RMOT](https://github.com/wudongming97/RMOT), [TempRMOT](https://github.com/zyn213/TempRMOT), [DsHmp](https://github.com/heshuting555/DsHmp) for providing their open-source resources.
+We sincerely thank projects [TransRMOT](https://github.com/wudongming97/RMOT), [TempRMOT](https://github.com/zyn213/TempRMOT), [DsHmp](https://github.com/heshuting555/DsHmp) for providing their open-source resources.
 
 ## 📫 Contact
 
