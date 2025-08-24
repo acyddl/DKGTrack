@@ -29,4 +29,4 @@ python3 inference.py \
 --rmot_path /data2/lgy/Dataset/RMOT/REFER-KITTI/Dataset/refer-kitti-v2/ \
 --resume /dkgtrack/exps/saved_models_rk/motion_1_v2/checkpoint0069.pth \
 --output_dir /dkgtrack/exps/saved_models_rk/motion_1_v2/
-# --visualization  \
+
