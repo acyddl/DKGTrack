@@ -86,7 +86,7 @@ class SpatialTemporalReasoner(nn.Module):
  
         tgt_motion = self.cross_static(tgt.transpose(1,0), word_embeddings).transpose(1,0)
 
-        tgt = tgt + 0.6 * tgt_motion #motion1=0.5 motion2=0.1
+        tgt = tgt + 0.6 * tgt_motion #motion1=0.5
 
         track_instances.output_embedding = tgt.squeeze(0)
         
