@@ -31,3 +31,4 @@ python3 inference.py \
 --rmot_path /data2/lgy/Dataset/RMOT/REFER-KITTI/Dataset/refer-kitti/ \
 --hist_len 8 \
 --output_dir /dkgtrack/exps/saved_models_rk/motion
+#--visualization
