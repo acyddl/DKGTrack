@@ -11,7 +11,7 @@ python3 -m torch.distributed.launch --nproc_per_node=3 --master_port 23333 \
    --meta_arch temp_rmot \
    --use_checkpoint \
    --dataset_file e2e_rmot \
-   --epoch 160 \
+   --epoch 100 \
    --with_box_refine \
    --lr_drop 40 \
    --lr 1e-4 \
